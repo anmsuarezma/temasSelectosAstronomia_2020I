@@ -1,2 +1,1 @@
-# temasSelectosAstronomia_2020I
-Material del curso
+Material del curso Temas Selectos en Astronomía 2020-I
